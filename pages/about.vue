@@ -78,6 +78,7 @@ export default {
     position: relative;
     img {
       width: 100%;
+      border-radius: 50%;
     }
   }
   .name {
